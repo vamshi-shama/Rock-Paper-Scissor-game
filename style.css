@@ -1,0 +1,20 @@
+#game-board {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.choice {
+    margin: 0 50px;
+    cursor: pointer;
+}
+
+.choice {
+    width: 50px;
+}
+
+#result {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+}
